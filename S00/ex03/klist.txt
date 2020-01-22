@@ -1,0 +1,5 @@
+Credentials cache: API:F4063F2E-E58E-4EC1-8586-0E5DA7F109DD
+        Principal: karibenn@42.FR
+
+		  Issued                Expires               Principal
+		  Sep  3 22:15:52 2019  Sep 10 22:15:44 2019  krbtgt/42.FR@42.FR
